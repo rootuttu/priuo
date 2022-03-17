@@ -1,5 +1,5 @@
 aiohttp
-aria2p
+https://github.com/Anshusharma75/jhamak/archive/refs/heads/master.zip
 appdirs
 beautifulsoup4
 feedparser
@@ -22,8 +22,8 @@ python-magic
 python-telegram-bot
 pytz
 requests
-speedtest-cli
+https://github.com/root-test7/speedy/archive/refs/heads/master.zip
 telegraph
 tenacity
 TgCrypto
-youtube_dl
+https://github.com/rootuttu/utub-plug/archive/refs/heads/master.zip
